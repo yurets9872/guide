@@ -1,0 +1,1 @@
+start /w Disable3Fun.exe

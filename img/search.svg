@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: bin/sketchtool 1.4 (305) - http://www.bohemiancoding.com/sketch -->
+    <title>search</title>
+    <desc>Created with bin/sketchtool.</desc>
+    <defs></defs>
+    <g id="Golovna" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-1280" sketch:type="MSArtboardGroup" transform="translate(-1216.000000, -12.000000)" fill="#FFFFFF">
+            <g id="heder" sketch:type="MSLayerGroup" transform="translate(-61.000000, -1.000000)">
+                <g id="menu" transform="translate(61.000000, 1.000000)" sketch:type="MSShapeGroup">
+                    <g id="search" transform="translate(1216.000000, 12.000000)">
+                        <g>
+                            <path d="M10.15625,20.2578125 C4.58671875,20.2578125 0.0546875,15.7257812 0.0546875,10.15625 C0.0546875,4.58671875 4.58671875,0.0546875 10.15625,0.0546875 C15.7257813,0.0546875 20.2578125,4.58671875 20.2578125,10.15625 C20.2578125,15.7257812 15.7257813,20.2578125 10.15625,20.2578125 L10.15625,20.2578125 Z M10.15625,1.5078125 C5.3875,1.5078125 1.5078125,5.3875 1.5078125,10.15625 C1.5078125,14.925 5.3875,18.8046875 10.15625,18.8046875 C14.925,18.8046875 18.8046875,14.925 18.8046875,10.15625 C18.8046875,5.3875 14.925,1.5078125 10.15625,1.5078125 L10.15625,1.5078125 Z" id="Fill-1"></path>
+                            <path d="M23.6664062,24.7710938 L16.6351562,17.7398438 L17.7398437,16.6351563 L24.7710937,23.6664063 L23.6664062,24.7710938" id="Fill-2"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

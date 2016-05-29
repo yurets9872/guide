@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" ?>
+  <dpinst>
+
+    <!-- English -->
+    <language code="0x0409">
+      <dpinstTitle>ELAN Input Device Driver Installation</dpinstTitle>
+      <welcomeTitle>Welcome</welcomeTitle>
+      <welcomeIntro>Welcome to the ELAN Input Device Driver Setup program.  This program will install the ELAN Input Device Driver on your computer. </welcomeIntro>
+      <eulaHeaderTitle>Review the terms of the license agreement</eulaHeaderTitle>
+      <eulaYesButton>I accept this agreement</eulaYesButton>
+      <eulaNoButton>I do not accept this agreement</eulaNoButton>
+      <installHeaderTitle>Please wait while Setup finishes installing the driver.</installHeaderTitle>
+      <finishTitle>Setup complete</finishTitle>
+      <finishText>Setup has finished installing the ELAN Input Device driver.</finishText>
+      <eula type="txt" path="Eula0409ENU.tx_"/>
+    </language>
+
+    <!--  Chinese (Taiwan) --> 
+  <language code="0x0404">
+  <dpinstTitle>ELAN 輸入裝置 驅動程式安裝</dpinstTitle> 
+  <welcomeTitle>歡迎</welcomeTitle> 
+  <welcomeIntro>歡迎蒞臨ELAN輸入裝置驅動程式的設定程式。這個程式可以在電腦上安裝ELAN輸入裝置的驅動程式。</welcomeIntro>
+    <eulaHeaderTitle>檢視許可協定的條款</eulaHeaderTitle>
+    <eulaYesButton>我接受本協定</eulaYesButton>
+    <eulaNoButton>我不接受本協定</eulaNoButton>
+    <installHeaderTitle>請等待設定程式完成驅動程式的安裝。</installHeaderTitle> 
+  <finishTitle>設定完畢</finishTitle> 
+  <finishText>設定程式已經完成ELAN輸入裝置驅動程式的安裝。</finishText>
+    <eula type="txt" path="Eula0404CHT.tx_"/>
+  </language>
+  
+    <!--  PRC --> 
+  <language code="0x0804">
+  <dpinstTitle>ELAN 输入设备驱动程序安装</dpinstTitle> 
+  <welcomeTitle>欢迎使用</welcomeTitle> 
+  <welcomeIntro>欢迎使用 ELAN 输入设备驱动程序安装程序。此程序将在您的计算机上安装 ELAN 输入设备驱动程序。</welcomeIntro>
+    <eulaHeaderTitle>查看许可协议条款</eulaHeaderTitle>
+    <eulaYesButton>我接受此协议</eulaYesButton>
+    <eulaNoButton>我不接受此协议</eulaNoButton>
+    <installHeaderTitle>请等待安装程序完成驱动程序安装。</installHeaderTitle> 
+  <finishTitle>安装完成</finishTitle> 
+  <finishText>安装程序已完成 ELAN 输入设备驱动程序安装。</finishText>
+    <eula type="txt" path="Eula0804PRC.tx_"/>
+  </language>
+  
+    <!-- Turkey --> 
+  <language code="0x041F">
+  <dpinstTitle>ELAN Giriş Aygıtı Sürücü Kurulumu</dpinstTitle> 
+  <welcomeTitle>Hoş Geldiniz</welcomeTitle> 
+  <welcomeIntro>ELAN Giriş Aygıtı Sürücü Kurulum yazılımına hoş geldiniz.  Bu yazılım, bilgisayarınıza ELAN Giriş Aygıtı Sürücüsünü kuracaktır.</welcomeIntro>
+    <eulaHeaderTitle>Lisans anlaşmasını gözden geçirin</eulaHeaderTitle>
+    <eulaYesButton>Anlaşmayı kabul ediyorum</eulaYesButton>
+    <eulaNoButton>Anlaşmayı kabul etmiyorum</eulaNoButton>
+    <installHeaderTitle>Lütfen sürücünün kurulumu tamamlanana kadar bekelyiniz.</installHeaderTitle> 
+  <finishTitle>Kurulum tamamlandı</finishTitle> 
+  <finishText>ELAN Giriş Aygıtı sürücü kurulumu tamamlandı.</finishText>
+    <eula type="txt" path="Eula041FTUR.tx_"/>
+  </language>
+
+    <!--  Denmark --> 
+  <language code="0x0406">
+  <dpinstTitle>ELAN input enhedsdriver installation</dpinstTitle> 
+  <welcomeTitle>Velkommen</welcomeTitle> 
+  <welcomeIntro>Velkommen til ELAN input enhedsdriver setup program. Dette program vil installere ELAN input enhedsdriver på din computer.</welcomeIntro>
+    <eulaHeaderTitle>Gennemse betingelserne af licensaftalen</eulaHeaderTitle>
+    <eulaYesButton>Jeg accepterer denne aftale</eulaYesButton>
+    <eulaNoButton>Jeg accepterer ikke denne aftale</eulaNoButton>
+    <installHeaderTitle>Venligst vent mens setup afslutter installationen af driveren.</installHeaderTitle> 
+  <finishTitle>Setup komplet</finishTitle> 
+  <finishText>Setup har afsluttet installation af ELAN input enhedsdriver.</finishText>
+    <eula type="txt" path="Eula0406DAN.tx_"/>
+  </language>
+    
+    <!--  Japan --> 
+  <language code="0x0411">
+  <dpinstTitle>ELAN 入力デバイス用ドライバのインストール</dpinstTitle> 
+  <welcomeTitle>ようこそ</welcomeTitle> 
+  <welcomeIntro>ELAN入力デバイス用ドライバのセットアップ・プログラムにようこそ。 このプログラムはELAN入力デバイス用ドライバはコンピュータにインストールします。</welcomeIntro>
+    <eulaHeaderTitle>ライセンス契約条件の確認</eulaHeaderTitle>
+    <eulaYesButton>この契約に同意します</eulaYesButton>
+    <eulaNoButton>この契約に同意しません</eulaNoButton>
+    <installHeaderTitle>セットアップがドライバのインストールを完了するまでお待ちください。</installHeaderTitle> 
+  <finishTitle>セットアップ完了</finishTitle> 
+  <finishText>セットアップはELAN入力デバイス用ドライバのインストールを完了しました。</finishText>
+    <eula type="txt" path="Eula0411JPN.tx_"/>
+  </language>
+  
+    <!--  Hungary --> 
+  <language code="0x040E">
+  <dpinstTitle>ELAN bemeneti eszköz meghajtó telepítése</dpinstTitle> 
+  <welcomeTitle>Üdvözöljük</welcomeTitle> 
+  <welcomeIntro>Üdvözöljük az ELAN bemeneti eszköz meghajtó telepítőprogramjában. Ez a program az ELAN bemeneti eszköz meghajtót telepíti az Ön számítógépére.</welcomeIntro>
+    <eulaHeaderTitle>A szerződési feltételek megtekintése</eulaHeaderTitle>
+    <eulaYesButton>Elfogadom a szerződési feltételeket</eulaYesButton>
+    <eulaNoButton>Nem fogadom el a szerződési feltételeket</eulaNoButton>
+    <installHeaderTitle>Várja meg, amíg a program befejezi a meghajtó telepítését.</installHeaderTitle> 
+  <finishTitle>Telepítés kész</finishTitle> 
+  <finishText>A program befejezte az ELAN bemeneti eszköz meghajtó telepítését.</finishText>
+    <eula type="txt" path="Eula040EHUN.tx_"/>
+  </language>
+   
+    <!--  Spain --> 
+  <language code="0x0C0A">
+  <dpinstTitle>Instalación del controlador del dispositivo de entrada ELAN</dpinstTitle> 
+  <welcomeTitle>Bienvenido</welcomeTitle> 
+  <welcomeIntro>Bienvenido al programa de instalación del controlador del dispositivo de entrada ELAN. Este programa instalará el controlador del dispositivo de entrada ELAN en su ordenador.</welcomeIntro>
+    <eulaHeaderTitle>Revisar los términos del acuerdo de licencia</eulaHeaderTitle>
+    <eulaYesButton>Acepto este acuerdo</eulaYesButton>
+    <eulaNoButton>No acepto este acuerdo</eulaNoButton>
+    <installHeaderTitle>Espere mientras Setup finaliza la instalación del controlador.</installHeaderTitle> 
+  <finishTitle>Instalación completada</finishTitle> 
+  <finishText>Setup ha finalizado la instalación del controlador del dispositivo de entrada ELAN.</finishText>
+    <eula type="txt" path="Eula0C0ASPN.tx_"/>
+  </language>
+  
+     <!--  Hebrew --> 
+  <language code="0x040D">
+  <dpinstTitle>התקנת כונן מכשיר קלט ELAN</dpinstTitle> 
+  <welcomeTitle>ברוכים הבאים</welcomeTitle> 
+  <welcomeIntro>ברוכים הבאים לתוכנת התקנת כונן מכשיר הקלט ELAN. תוכנה זו תתקין את כונן מכשיר הקלט ELAN במחשב שלכם. </welcomeIntro>
+    <eulaHeaderTitle>עיינו בהסכם תנאי הרשיון. </eulaHeaderTitle>
+    <eulaYesButton>אני מקבל את התנאים</eulaYesButton>
+    <eulaNoButton>אינני מקבל את התנאים</eulaNoButton>
+    <installHeaderTitle>בבקשה המתינו עד שהמערכת תסיים להתקין את הכונן. </installHeaderTitle> 
+  <finishTitle>ההתקנה הושלמה</finishTitle> 
+  <finishText>המערכת סיימה להתקין את כונן מכשיר הקלט ELAN שלכם. </finishText>
+    <eula type="txt" path="Eula040DHEB.tx_"/>
+  </language>
+      
+    <!--  Greece --> 
+  <language code="0x0408">
+  <dpinstTitle>Εγκατάσταση της μονάδας της συσκευής εισόδου του ELAN</dpinstTitle> 
+  <welcomeTitle>Καλώς ήρθατε</welcomeTitle> 
+  <welcomeIntro>Καλώς ήρθατε στο πρόγραμμα Εγκατάστασης της μονάδας της συσκευής εισόδου του ELAN. Αυτό το πρόγραμμα θα εγκαταστήσει τη Μονάδα της συσκευής εισόδου του ELAN στον υπολογιστή σας.</welcomeIntro>
+    <eulaHeaderTitle>Εξετάστε τους όρους της άδειας χρήσης</eulaHeaderTitle>
+    <eulaYesButton>Αποδέχομαι αυτή τη συμφωνία</eulaYesButton>
+    <eulaNoButton>Δεν αποδέχομαι αυτή τη συμφωνία</eulaNoButton>
+    <installHeaderTitle>Περιμένετε όσο η Εγκατάσταση ολοκληρώσει την εγκατάσταση της μονάδας.</installHeaderTitle> 
+  <finishTitle>Η εγκατάσταση ολοκληρώθηκε</finishTitle> 
+  <finishText>Η Εγκατάσταση έχει ολοκληρώσει την εγκατάσταση της μονάδας της Συσκευής εισόδου του ELAN.</finishText>
+    <eula type="txt" path="Eula0408GRE.tx_"/>
+  </language>
+        
+    <!--  Poland --> 
+  <language code="0x0415">
+  <dpinstTitle>Instalacja Sterownika Wejścia ELAN </dpinstTitle> 
+  <welcomeTitle>Witamy</welcomeTitle> 
+  <welcomeIntro>Witamy w programie instalacyjnym Sterownika Wejścia ELAN. Program ten zainstaluje Sterownik Wejścia ELAN na komputerze.</welcomeIntro>
+    <eulaHeaderTitle>Zapoznaj się z warunkami umowy licencyjnej</eulaHeaderTitle>
+    <eulaYesButton>Akceptuję umowę</eulaYesButton>
+    <eulaNoButton>Nie akceptuję umowy</eulaNoButton>
+    <installHeaderTitle>Poczekaj aż Program Instalacyjny zakończy instalację sterownika.</installHeaderTitle> 
+  <finishTitle>Instalacja zakończona</finishTitle> 
+  <finishText>Program zakończył instalację Sterownika Wejścia ELAN.</finishText>
+    <eula type="txt" path="Eula0415POL.tx_"/>
+  </language>     
+  
+    <!--  France --> 
+  <language code="0x040C">
+  <dpinstTitle>Installation du pilote du périphérique d’entrée ELAN</dpinstTitle> 
+  <welcomeTitle>Bienvenue</welcomeTitle> 
+  <welcomeIntro>Bienvenue dans le programme d’installation du pilote du périphérique d’entrée ELAN. Ce programme va installer le pilote du périphérique d’entrée ELAN dans votre ordinateur.</welcomeIntro>
+    <eulaHeaderTitle>Consultez les termes du contrat de licence</eulaHeaderTitle>
+    <eulaYesButton>J'accepte les termes de ce contrat</eulaYesButton>
+    <eulaNoButton>Je n'accepte pas le termes de ce contrat</eulaNoButton>
+    <installHeaderTitle>Veuillez patienter pendant l’installation du pilote.</installHeaderTitle> 
+  <finishTitle>Installation terminée</finishTitle> 
+  <finishText>L’installation du pilote du périphérique d’entrée ELAN est terminée.</finishText>
+    <eula type="txt" path="Eula040CFRA.tx_"/>
+  </language>
+   
+    <!--  Finland --> 
+  <language code="0x040B">
+  <dpinstTitle>ELAN-syöttölaitteen ajurin asentaminen</dpinstTitle> 
+  <welcomeTitle>Tervetuloa</welcomeTitle> 
+  <welcomeIntro>Tervetuloa ELAN-syöttölaitteen ajurin asennusohjelmaan. Tämä ohjelma asentaa ELAN-syöttölaitteen ajurin tietokoneellesi.</welcomeIntro>
+    <eulaHeaderTitle>Katso lisenssisopimuksen ehdot</eulaHeaderTitle>
+    <eulaYesButton>Hyväksyn tämän sopimuksen</eulaYesButton>
+    <eulaNoButton>En hyväksy tätä sopimusta</eulaNoButton>
+    <installHeaderTitle>Odota, kun ohjelma saa ajurin asennuksen valmiiksi.</installHeaderTitle> 
+  <finishTitle>Asennus valmis</finishTitle> 
+  <finishText>Ohjelma on saanut ELAN-syöttölaitteen ajurin asennuksen valmiiksi.</finishText>
+    <eula type="txt" path="Eula040BFIN.tx_"/>
+  </language>
+  
+    <!--  Arabia --> 
+  <language code="0x0401">
+  <dpinstTitle>تثبيت برنامج تشغيل جهاز إدخال ELAN</dpinstTitle> 
+  <welcomeTitle>مرحبًا</welcomeTitle> 
+  <welcomeIntro>مرحبًا في برنامج إعداد برنامج تشغيل جهاز إدخال ELAN  سيقوم هذا البرنامج بتثبيت برنامج تشغيل جهاز إدخال ELAN على الكمبيوتر.</welcomeIntro>
+    <eulaHeaderTitle>راجع الشروط الواردة في اتفاقية الترخيص.</eulaHeaderTitle>
+    <eulaYesButton>أقبل الاتفاقية</eulaYesButton>
+    <eulaNoButton>لا أقبل الاتفاقية</eulaNoButton>
+    <installHeaderTitle>الرجاء الانتظار لحين انتهاء الإعداد من تثبيت برنامج التشغيل</installHeaderTitle> 
+  <finishTitle>اكتمل الإعداد</finishTitle> 
+  <finishText>أنهى الإعداد تثبيت برنامج تشغيل جهاز إدخال ELAN.</finishText>
+    <eula type="txt" path="Eula0401ARA.tx_"/>
+  </language>
+       
+    <!--  Russia --> 
+  <language code="0x0419">
+  <dpinstTitle>Установка драйвера ELAN</dpinstTitle> 
+  <welcomeTitle>Приветствие</welcomeTitle> 
+  <welcomeIntro>Добро пожаловать в программу установки драйвера ELAN. Она позволить установить необходимый для работы драйвер на ваш компьютер.</welcomeIntro>
+    <eulaHeaderTitle>Прочитайте условия лицензионного соглашения.</eulaHeaderTitle>
+    <eulaYesButton>Я согласен с условиями</eulaYesButton>
+    <eulaNoButton>Я не согласен с условиями</eulaNoButton>
+    <installHeaderTitle>Подождите пока программа завершит установку драйвера.</installHeaderTitle> 
+  <finishTitle>Установка завершена</finishTitle> 
+  <finishText>Драйвер ELAN установлен на ваш компьютер.</finishText>
+    <eula type="txt" path="Eula0419RUS.tx_"/>
+  </language>
+
+    <!--  Norweign --> 
+  <language code="0x0414">
+  <dpinstTitle>Installasjon av ELAN Input Device Driver</dpinstTitle> 
+  <welcomeTitle>Velkommen</welcomeTitle> 
+  <welcomeIntro>Velkommen til installasjonsprogrammet for ELAN Input Device Driver. Dette programemt installerer ELAN Input Device Driver på datamaskinen.</welcomeIntro>
+    <eulaHeaderTitle>Les betingelsene i lisensavtalen</eulaHeaderTitle>
+    <eulaYesButton>Jeg godtar denne avtalen</eulaYesButton>
+    <eulaNoButton>Jeg godtar ikke denne avtalen</eulaNoButton>
+    <installHeaderTitle>Vennligst vent mens installasjonsprogrammet  installerer driveren.</installHeaderTitle> 
+  <finishTitle>Installasjonen er fullført</finishTitle> 
+  <finishText>Installasjonsprogrammet er ferdig med installasjonen av ELAN Input Device.</finishText>
+    <eula type="txt" path="Eula0414NOR.tx_"/>
+  </language>
+           
+    <!--  Thailand --> 
+  <language code="0x041E">
+  <dpinstTitle>การติดตั้งไดรเวอร์อุปกรณ์รับข้อมูล ELAN</dpinstTitle> 
+  <welcomeTitle>ยินดีต้อนรับ</welcomeTitle> 
+  <welcomeIntro>ยินดีต้อนรับสู่โปรแกรมติดตั้งไดรเวอร์อุปกรณ์รับข้อมูล ELAN  โปรแกรมนี้จะติดตั้งไดรเวอร์สำหรับอุปกรณ์รับข้อมูล ELAN บนคอมพิวเตอร์ของคุณ</welcomeIntro>
+    <eulaHeaderTitle>อ่านข้อกำหนดของข้อตกลงอนุญาตใช้</eulaHeaderTitle>
+    <eulaYesButton>ฉันยอมรับข้อตกลงนี้</eulaYesButton>
+    <eulaNoButton>ฉันไม่ยอมรับข้อตกลงนี้</eulaNoButton>
+    <installHeaderTitle>โปรดรอระหว่างที่โปรแกรมติดตั้งทำการติดตั้งไดรเวอร์ให้แล้วเสร็จ</installHeaderTitle> 
+  <finishTitle>การติดตั้งเสร็จสิ้น</finishTitle> 
+  <finishText>โปรแกรมติดตั้งเสร็จสิ้นการติดตั้งไดรเวอร์อุปกรณ์รับข้อมูล ELAN แล้ว</finishText>
+    <eula type="txt" path="Eula041ETHA.tx_"/>
+  </language>
+             
+    <!--  Czech --> 
+  <language code="0x0405">
+  <dpinstTitle>Instalace ovladače vstupního zařízení ELAN</dpinstTitle> 
+  <welcomeTitle>Vítáme vás</welcomeTitle> 
+  <welcomeIntro>Vítá vás program pro nastavení ovladače vstupního zařízení ELAN. Tento program nainstaluje do počítače ovladač vstupního zařízení ELAN.</welcomeIntro>
+    <eulaHeaderTitle>Přečtěte si podmínky licenční smlouvy.</eulaHeaderTitle>
+    <eulaYesButton>Se smlouvou souhlasím.</eulaYesButton>
+    <eulaNoButton>Se smlouvou nesouhlasím.</eulaNoButton>
+    <installHeaderTitle>Vyčkejte, dokud instalační program nedokončí instalaci ovladače.</installHeaderTitle> 
+  <finishTitle>Instalace byla dokončena.</finishTitle> 
+  <finishText>Instalační program dokončil instalaci ovladače vstupního zařízení ELAN.</finishText>
+    <eula type="txt" path="Eula0405CZE.tx_"/>
+  </language>
+               
+    <!--  Holland --> 
+  <language code="0x0413">
+  <dpinstTitle>Installeren van ELAN Input Device Driver </dpinstTitle> 
+  <welcomeTitle>Welkom</welcomeTitle> 
+  <welcomeIntro>Welkom bij het ELAN Input Device Driver Setup programma. Dit programma installeert de ELAN Input Device Driver op uw computer.</welcomeIntro>
+    <eulaHeaderTitle>Lees de voorwaarden van de licentieovereenkomst</eulaHeaderTitle>
+    <eulaYesButton>I accepteer deze overeenkomst</eulaYesButton>
+    <eulaNoButton>Ik accepteer deze overeenkomst niet</eulaNoButton>
+    <installHeaderTitle>Even wachten a.u.b. terwijl Setup de driver installeert.</installHeaderTitle> 
+  <finishTitle>Setup voltooid</finishTitle> 
+  <finishText>Setup heeft de ELAN Input Device driver geïnstalleered.</finishText>
+    <eula type="txt" path="Eula0413HOL.tx_"/>
+  </language>
+                 
+    <!--  Slovak --> 
+  <language code="0x041B">
+  <dpinstTitle>Inštalácia ovládača vstupného zariadenia ELAN</dpinstTitle> 
+  <welcomeTitle>Vitajte</welcomeTitle> 
+  <welcomeIntro>Vitajte v inštalačnom programe ovládača vstupného zariadenia ELAN. Tento program nainštalujte do počítača ovládač vstupného zariadenia ELAN.</welcomeIntro>
+    <eulaHeaderTitle>Prečítajte si podmienky licenčnej zmluvy</eulaHeaderTitle>
+    <eulaYesButton>Súhlasím s licenčnou zmluvou</eulaYesButton>
+    <eulaNoButton>Nesúhlasím s licenčnou zmluvou</eulaNoButton>
+    <installHeaderTitle>Počkajte, kým inštalátor dokončí inštaláciu ovládača.</installHeaderTitle> 
+  <finishTitle>Inštalácia dokončená</finishTitle> 
+  <finishText>Inštalátor dokončil inštaláciu ovládača vstupného zariadenia ELAN.</finishText>
+    <eula type="txt" path="Eula041BSLK.tx_"/>
+  </language>
+                   
+    <!--  Sweden --> 
+  <language code="0x041D">
+  <dpinstTitle>Installation av ELAN-ingångsenhetsdrivrutin</dpinstTitle> 
+  <welcomeTitle>Välkommen</welcomeTitle> 
+  <welcomeIntro>Välkommen till installationsprogrammet för ELAN-ingångsenhetsdrivrutin. Detta program installerar ELAN-ingångsenhetsdrivrutin på din dator.</welcomeIntro>
+    <eulaHeaderTitle>Läs igenom villkoren i licensavtalet.</eulaHeaderTitle>
+    <eulaYesButton>Jag accepterar detta avtal</eulaYesButton>
+    <eulaNoButton>Jag accepterar inte detta avtal</eulaNoButton>
+    <installHeaderTitle>Vänta medan installationsprogrammet slutför installationen av drivrutinen.</installHeaderTitle> 
+  <finishTitle>Installationen är slutförd.</finishTitle> 
+  <finishText>Installationsprogrammet har slutfört installationen av ELAN-ingångsenhetsdrivrutin.</finishText>
+    <eula type="txt" path="Eula041DSWE.tx_"/>
+  </language>
+                     
+    <!--  Italy --> 
+  <language code="0x0410">
+  <dpinstTitle>Installazione driver di periferica di input ELAN</dpinstTitle> 
+  <welcomeTitle>Benvenuti</welcomeTitle> 
+  <welcomeIntro>Benvenuti nel programma d'installazione del driver della periferica di input ELAN. Questo programma installerà il driver di periferica di input ELAN nel computer.</welcomeIntro>
+    <eulaHeaderTitle>Leggere i termini del contratto di licenza</eulaHeaderTitle>
+    <eulaYesButton>Accesso il contratto</eulaYesButton>
+    <eulaNoButton>Non accetto il contratto</eulaNoButton>
+    <installHeaderTitle>Attendere il completamento dell'installazione del driver dal parte del programma.</installHeaderTitle> 
+  <finishTitle>Installazione completata</finishTitle> 
+  <finishText>Il programma ha terminato l'installazione del driver di periferica di input ELAN.</finishText>
+    <eula type="txt" path="Eula0410ITA.tx_"/>
+  </language>
+                       
+    <!--  Brazil --> 
+  <language code="0x0416">
+  <dpinstTitle>Instalação do Driver do Dispositivo de Entrada ELAN</dpinstTitle> 
+  <welcomeTitle>Bem-vindo</welcomeTitle> 
+  <welcomeIntro>Bem-vindo ao programa de Instalação do Driver do Dispositivo de Entrada ELAN. Este programa irá instalar o Driver do Dispositivo de Entrada ELAN em seu computador.</welcomeIntro>
+    <eulaHeaderTitle>Examine os termos do acordo de licença </eulaHeaderTitle>
+    <eulaYesButton>Eu aceito este acordo</eulaYesButton>
+    <eulaNoButton>Eu não aceito este acordo</eulaNoButton>
+    <installHeaderTitle>Por favor aguarde enquanto a Instalação conclui a instalação do driver.</installHeaderTitle> 
+  <finishTitle>Instalação concluída</finishTitle> 
+  <finishText>Concluída a instalação do driver do Dispositivo de Entrada ELAN.</finishText>
+    <eula type="txt" path="Eula0416BRA.tx_"/>
+  </language>
+                         
+    <!--  Portugese --> 
+  <language code="0x0816">
+  <dpinstTitle>Instalação do controlador do dispositivo de entrada ELAN</dpinstTitle> 
+  <welcomeTitle>Bem-vindo</welcomeTitle> 
+  <welcomeIntro>Bem-vindo ao programa de configuração do controlador do dispositivo de entrada ELAN. Este programa instalará o controlador do dispositivo de entrada ELAN no seu computador.</welcomeIntro>
+    <eulaHeaderTitle>Rever os termos do contrato de licença</eulaHeaderTitle>
+    <eulaYesButton>Aceito este contrato</eulaYesButton>
+    <eulaNoButton>Não aceito este contrato</eulaNoButton>
+    <installHeaderTitle>Aguarde até o programa de configuração concluir a instalação do controlador.</installHeaderTitle> 
+  <finishTitle>Configuração concluída</finishTitle> 
+  <finishText>O programa de configuração concluiu a instalação do controlador do dispositivo de entrada ELAN.</finishText>
+    <eula type="txt" path="Eula0816POR.tx_"/>
+  </language>
+                           
+    <!--  German --> 
+  <language code="0x0407">
+  <dpinstTitle>Treiberinstallation für das ELAN-Eingabegerät</dpinstTitle> 
+  <welcomeTitle>Willkommen</welcomeTitle> 
+  <welcomeIntro>Willkommen zum Treiberinstallationsprogramm für das ELAN-Eingabegerät. Mit diesem Programm wird der Treiber des ELAN-Eingabegeräts auf Ihrem Computer installiert.</welcomeIntro>
+    <eulaHeaderTitle>Lesen Sie sich die Bedingungen der Lizenzvereinbarung durch.</eulaHeaderTitle>
+    <eulaYesButton>Ich stimme dieser Vereinbarung zu</eulaYesButton>
+    <eulaNoButton>Ich lehne diese Vereinbarung ab</eulaNoButton>
+    <installHeaderTitle>Warten Sie, bis das Installationsprogramm den Treiber fertig installiert hat.</installHeaderTitle> 
+  <finishTitle>Installation abgeschlossen</finishTitle> 
+  <finishText>Das Installationsprogramm hat die Treiberinstallation des ELAN-Eingabegeräts abgeschlossen.</finishText>
+    <eula type="txt" path="Eula0407GER.tx_"/>
+  </language>
+                             
+    <!--  Korea --> 
+  <language code="0x0412">
+  <dpinstTitle>ELAN 입력 장치 드라이버 설치</dpinstTitle> 
+  <welcomeTitle>환영합니다</welcomeTitle> 
+  <welcomeIntro>ELAN 입력 장치 드라이버 설치 프로그램에 오신 것을 환영합니다.  이 프로그램은 컴퓨터에 ELAN 입력 장치 드라이버를 설치합니다.</welcomeIntro>
+    <eulaHeaderTitle>라이센스 계약을 잘 읽어주십시오</eulaHeaderTitle>
+    <eulaYesButton>이 계약에 동의합니다</eulaYesButton>
+    <eulaNoButton>이 계약에 동의하지 않습니다</eulaNoButton>
+    <installHeaderTitle>드라이버를 설치하는 동안 잠시 기다려 주십시오.</installHeaderTitle> 
+  <finishTitle>설치 완료</finishTitle> 
+  <finishText>ELAN 입력 장치 드라이버가 설치되었습니다.</finishText>
+    <eula type="txt" path="Eula0412KOR.tx_"/>
+  </language>
+                               
+    <!--  Croatian --> 
+  <language code="0x041A">
+  <dpinstTitle>Instalacija upravljačkog programa za ELAN ulazni uređaj</dpinstTitle> 
+  <welcomeTitle>Dobro došli</welcomeTitle> 
+  <welcomeIntro>Dobro došli u program za instalaciju upravljačkog programa za ELAN ulazni uređaj. Ovaj program će instalirati upravljački program za ELAN ulazni uređaj na vaše računalo.</welcomeIntro>
+    <eulaHeaderTitle>Pročitajte uvjete licenčnog ugovora</eulaHeaderTitle>
+    <eulaYesButton>Prihvaćam ovaj ugovor</eulaYesButton>
+    <eulaNoButton>Ne prihvaćam ovaj ugovor</eulaNoButton>
+    <installHeaderTitle>Molim, pričekajte dok instalacijski program instalira upravljački program.</installHeaderTitle> 
+  <finishTitle>Instalacija je dovršena</finishTitle> 
+  <finishText>Instalacijski program je dovršio instalaciju upravljačkog programa za ELAN ulazni uređaj.</finishText>
+    <eula type="txt" path="Eula041ACRO.tx_"/>
+  </language>
+                                 
+    <!--  Slovenian --> 
+  <language code="0x0424">
+  <dpinstTitle>Namestitev gonilnika za ELAN vhodno napravo</dpinstTitle> 
+  <welcomeTitle>Dobrodošli</welcomeTitle> 
+  <welcomeIntro>Dobrodošli v program za namestitev gonilnika za ELAN vhodno napravo. Ta program bo namestil gonilnik za ELAN vhodno napravo na vašemu računalniku.</welcomeIntro>
+    <eulaHeaderTitle>Preberite pogoje licenčne pogodbe</eulaHeaderTitle>
+    <eulaYesButton>Sprejemam pogoje licenčne pogodbe</eulaYesButton>
+    <eulaNoButton>Ne sprejemam pogoje licenčne pogodbe</eulaNoButton>
+    <installHeaderTitle>Prosim, počakajte, da namestitveni program konča namestitev gonilnika.</installHeaderTitle> 
+  <finishTitle>Namestitev je končana.</finishTitle> 
+  <finishText>Namestitveni program je končal namestitev gonilnika za ELAN vhodno napravo.</finishText>
+    <eula type="txt" path="Eula0424SLO.tx_"/>
+  </language>
+                                   
+    <!--  Romanian --> 
+  <language code="0x0418">
+  <dpinstTitle>Instalarea ELAN Input Device Driver</dpinstTitle> 
+  <welcomeTitle>Bine aţi venit</welcomeTitle> 
+  <welcomeIntro>Bine aţi venit la programul de instalare al ELAN Input Device Driver. Acest program va instala ELAN Input Device Driver pe calculatorul dvs.</welcomeIntro>
+    <eulaHeaderTitle>Revedeţi termenii din contractul de licenţă</eulaHeaderTitle>
+    <eulaYesButton>Accept acest contract</eulaYesButton>
+    <eulaNoButton>Nu accept acest contract</eulaNoButton>
+    <installHeaderTitle>Vă rugăm să aşteptaţi până ce programul termină instalarea driver-ului.</installHeaderTitle> 
+  <finishTitle>Instalare încheiată</finishTitle> 
+  <finishText>Programul a terminat instalarea ELAN Input Device driver.</finishText>
+    <eula type="txt" path="Eula0418ROM.tx_"/>
+  </language>
+                                     
+    <!--  Chinese (Hong Kong) --> 
+  <language code="0x0C04">
+  <dpinstTitle>ELAN 輸入裝置驅動程式安裝</dpinstTitle> 
+  <welcomeTitle>歡迎</welcomeTitle> 
+  <welcomeIntro>歡迎使用 ELAN 輸入裝置驅動程式安裝程式。本程式將安裝 ELAN 輸入裝置驅動程式於您的電腦。</welcomeIntro>
+    <eulaHeaderTitle>參閱授權合約條款</eulaHeaderTitle>
+    <eulaYesButton>本人接受合約</eulaYesButton>
+    <eulaNoButton>本人不接受合約</eulaNoButton>
+    <installHeaderTitle>正在安裝驅動程式，請稍候。</installHeaderTitle> 
+  <finishTitle>安裝完成</finishTitle> 
+  <finishText>已完成安裝 ELAN 輸入裝置驅動程式。</finishText>
+    <eula type="txt" path="Eula0C04HK.tx_"/>
+  </language>
+  
+  
+  
+    <icon>ELANLogo.ico</icon>
+    <headerPath>ELANTP.bmp</headerPath>
+    <legacyMode/>
+    <forceIfDriverIsNotBetter/>
+    <suppressAddRemovePrograms/>
+    <enableNotListedLanguages/>
+
+  </dpinst>

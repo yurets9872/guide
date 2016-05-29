@@ -1,0 +1,1 @@
+Setup.exe /s /f2c:\windows\temp\Touchpad_Elantech.log

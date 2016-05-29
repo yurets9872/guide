@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="42px" height="40px" viewBox="0 0 42 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: bin/sketchtool 1.4 (305) - http://www.bohemiancoding.com/sketch -->
+    <title>Hotel</title>
+    <desc>Created with bin/sketchtool.</desc>
+    <defs></defs>
+    <g id="Golovna" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="menu" sketch:type="MSArtboardGroup" transform="translate(-310.000000, -77.000000)">
+            <rect id="Rectangle-82" fill="#000000" sketch:type="MSShapeGroup" x="0" y="0" width="1280" height="382"></rect>
+            <g id="menu_open" sketch:type="MSLayerGroup" transform="translate(0.000000, -1.000000)">
+                <path d="M0,51 L146.648438,51 L146.648438,0.39453125 L267.332031,0.39453125 L267.332031,51 L1280,51 L1280,378 L0,378 L0,51 Z" id="Rectangle-61" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <g id="Hotel" transform="translate(310.000000, 79.000000)">
+                    <path d="M30.9946289,10.0410156 L38.9941406,10.0410156 L38.9941406,38.0645161 L2.06054686,38.0645164 L2.06054686,10.0410156 L8.92407225,10.0410156" id="Rectangle-64" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"></path>
+                    <text id="HOTEL" sketch:type="MSTextLayer" font-family="Scada" font-size="10.9677419" font-weight="normal" fill="#000000">
+                        <tspan x="6.4516129" y="26.7741935">HOTEL</tspan>
+                    </text>
+                    <path d="M1.04174807,0.0810546822 L1.04174807,5.97192382" id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                    <path d="M1.94555662,2.99511725 L39.9680176,2.99511726" id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                    <path d="M37.1411133,0.0593261745 L40.0930176,3.04663086 L37.1411133,6.03393539" id="Path-103" stroke="#000000" stroke-width="2" sketch:type="MSShapeGroup"></path>
+                    <path d="M10.9677419,3.5483871 L10.9677419,11.0295412" id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                    <path d="M30.9677419,3.5483871 L30.9677419,10.9670412" id="Line-Copy" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                    <path d="M11.9354839,10.9677419 L27.9826656,10.9677419" id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                    <path d="M6.5,30.5 L34.5178509,30.5" id="Line" stroke="#000000" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
